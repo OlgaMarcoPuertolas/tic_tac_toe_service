@@ -6,7 +6,7 @@ if len(sys.argv) != 4:
     sys.exit(1)
 
 # Tu match ID actual
-match_id = "TU_MATCH_ID_AQUI"
+match_id = "your-match-id"
 player = sys.argv[1]
 x = int(sys.argv[2])
 y = int(sys.argv[3])
